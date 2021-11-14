@@ -1,0 +1,4 @@
+#Sun Nov 14 18:16:19 CET 2021
+base.0=C\:\\Users\\Roman\\Documents\\Unity\\open-android-app-settings-example\\open-android-app-settings-example-unity\\Library\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

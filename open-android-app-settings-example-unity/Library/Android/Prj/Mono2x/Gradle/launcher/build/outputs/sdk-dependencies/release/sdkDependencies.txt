@@ -1,0 +1,25 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "openandroidsettings-release"
+  }
+  digests {
+    sha256: "\f\260\3001\260lk\360D\357\022\307\241\237i\350\304M\033]\\\356!\247|\352\223C\0361\317\207"
+  }
+}
+library {
+  digests {
+    sha256: "\027\026\352\227b\220(\215O\004xmh\245\234\365\374\017lIY\277\325\213N7\247|\376\030FP"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 1
+}
